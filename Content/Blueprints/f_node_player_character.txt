@@ -1,0 +1,2 @@
+0 - ures
+1 - spline mozgasok
